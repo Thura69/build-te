@@ -1,0 +1,1 @@
+import{s as o}from"./index-VQSAZRLI.js";const n=o("label")(({theme:t})=>({display:"flex",alignItems:"center",fontSize:t.typography.fontSize,marginBottom:t.spacing(.5),fontWeight:400}));export{n as S};

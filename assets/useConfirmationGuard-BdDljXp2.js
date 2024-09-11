@@ -1,0 +1,1 @@
+import{N as t,d as e,a9 as n,aE as r}from"./index-VQSAZRLI.js";function c(){const a=t();return{openModal:e.useCallback((o,s)=>{a(n(!0)),a(r({relatedUserInfo:o,relatedOperationName:s}))},[a])}}export{c as u};

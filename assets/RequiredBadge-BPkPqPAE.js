@@ -1,0 +1,1 @@
+import{j as e,a as o,h as a}from"./index-VQSAZRLI.js";function i({isRequired:r}){return e.jsx(o,{component:"span",variant:"h6",color:"whiteAccent.main",bgcolor:r?"error.main":"text.secondary",px:.5,borderRadius:"1px",children:"必須"})}i.propTypes={isRequired:a.bool.isRequired};export{i as R};

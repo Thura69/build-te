@@ -1,0 +1,1 @@
+import{d as m,j as u,h as e}from"./index-VQSAZRLI.js";import{P as i}from"./react-number-format.es-DoWa0wzu.js";const r=m.forwardRef(function(t,a){const{onChange:o,...n}=t;return u.jsx(i,{...n,getInputRef:a,onValueChange:s=>{o({target:{name:t.name,value:s.formattedValue}})}})});r.propTypes={onChange:e.func.isRequired,name:e.string.isRequired};const c=r;export{c as P};

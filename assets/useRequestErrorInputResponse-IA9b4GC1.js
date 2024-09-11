@@ -1,0 +1,1 @@
+import{d as c}from"./index-VQSAZRLI.js";function s(e){return Array.isArray(e)&&e.length>0}function f(){return c.useCallback((t,n)=>{if(t.status!==400&&t.status!==404)return;let a;s(t.data)?a=t.data:typeof t.data=="object"&&t.data!==null&&(a=[t.data]),console.log(a),a.forEach(o=>{Object.entries(o).forEach(([u,r])=>{n(u,{message:s(r)?r[0]:r,type:"manual"})})})},[])}export{f as u};

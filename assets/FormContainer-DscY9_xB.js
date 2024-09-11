@@ -1,0 +1,1 @@
+import{j as i,S as o,T as p,h as e}from"./index-VQSAZRLI.js";function a({children:t,maxWidth:r,title:s,titleAlign:n}){return i.jsxs(o,{gap:5,maxWidth:r,children:[i.jsx(p,{textAlign:`${n||"left"}`,children:s}),t]})}a.propTypes={children:e.object.isRequired,maxWidth:e.oneOfType([e.string,e.number]).isRequired,title:e.string.isRequired,titleAlign:e.string};export{a as F};

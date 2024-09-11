@@ -1,0 +1,1 @@
+import{d as e}from"./index-VQSAZRLI.js";function u(){const[t,o]=e.useState(0);return e.useEffect(()=>{(()=>{const a=document.getElementById("table").getBoundingClientRect().top,n=42,i=48,s=window.innerHeight-a-n,c=Math.floor(s/i)-1;o(c)})()},[]),{pageSize:t}}export{u};
